@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player Service</string>
+    <string name="description_image">imagen para guardar</string>
+    <string name="blur_title">Nivel de desenfoque</string>
+    <string name="blur_lv_1">Bajo</string>
+    <string name="blur_lv_2">Medio</string>
+    <string name="blur_lv_3">Alto</string>
+    <string name="cancel_work">Cancelar</string>
+    <string name="go">Start</string>
+    <string name="see_file">Ver foto</string>
+</resources>
